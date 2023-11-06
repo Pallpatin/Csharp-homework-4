@@ -1,0 +1,14 @@
+D:\top academy\дз\four homework\four homework\bin\Debug\net6.0\four homework.exe
+D:\top academy\дз\four homework\four homework\bin\Debug\net6.0\four homework.deps.json
+D:\top academy\дз\four homework\four homework\bin\Debug\net6.0\four homework.runtimeconfig.json
+D:\top academy\дз\four homework\four homework\bin\Debug\net6.0\four homework.dll
+D:\top academy\дз\four homework\four homework\bin\Debug\net6.0\four homework.pdb
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\four homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\four homework.AssemblyInfoInputs.cache
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\four homework.AssemblyInfo.cs
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\four homework.csproj.CoreCompileInputs.cache
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\four homework.dll
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\refint\four homework.dll
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\four homework.pdb
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\four homework.genruntimeconfig.cache
+D:\top academy\дз\four homework\four homework\obj\Debug\net6.0\ref\four homework.dll
